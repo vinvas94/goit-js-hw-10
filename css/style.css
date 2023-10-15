@@ -55,3 +55,7 @@
 .breed-select {
   height: 30px;
 }
+
+body {
+  width: 1240px;
+}
